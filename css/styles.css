@@ -33,7 +33,8 @@ h3{
   margin: 5px;
 }
 
-li span{
+li,
+span{
   font-weight: bold;
 }
 
